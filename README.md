@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MrCryptoFantom
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C# and Python Programming
+- 💞️ I’m looking to collaborate on Interesting projects
+- 📫 How to reach me mrfantom7655@gmail.com
