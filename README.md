@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @MrCryptoFantom
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C# and Python Programming
+- 👋 Hi, I’m @MrCryptoFantom, but I just go by MrFantom
+- 👀 I’m interested in Programming & Machine Learning!
+- 🌱 I’m currently learning C# and Python Programming and how to use them to create artificial intelligence!
 - 💞️ I’m looking to collaborate on Interesting projects
 - 📫 How to reach me mrfantom7655@gmail.com
+
+I've been programming in C# for going on 10 years!!!! If you github looks a little empty it's mostly because I kinda forget that I've got it lol
