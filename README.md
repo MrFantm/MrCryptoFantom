@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Interesting projects
 - 📫 How to reach me mrfantom7655@gmail.com
 
-I've been programming in C# for going on 10 years!!!! If you github looks a little empty it's mostly because I kinda forget that I've got it lol
+I've been programming in C# for going on 10 years!!!! If my github looks a little empty it's mostly because I kinda forget that I've got it lol
