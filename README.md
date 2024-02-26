@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrCryptoFantom, but I just go by MrFantom
+- 👋 Hi, I’m @MrFantm
 - 👀 I’m interested in Programming & Machine Learning!
 - 🌱 I’m currently learning C# and Python Programming and how to use them to create artificial intelligence!
 - 💞️ I’m looking to collaborate on Interesting projects
